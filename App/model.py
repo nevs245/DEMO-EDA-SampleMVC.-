@@ -25,6 +25,7 @@
  """
 
 
+from fileinput import filename
 import config as cf
 from DISClib.ADT import list as lt
 assert cf
@@ -95,7 +96,8 @@ def addBookTags(catalog, booktagsfile):
     el mismo procedimiento que la funcion addBooks.
     """
     # TODO: Modificaciones lab 1, completar funcion.
-    pass
+    catalog["book_tags"]=lt.NewList(datastructure="SINGLE_LINKED",filename=booktagsfile)
+    return catalog
 
 
 # Funciones de consulta
