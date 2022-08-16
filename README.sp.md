@@ -34,7 +34,7 @@ Los estudiantes editan esta sección para agregar sus nombres, correos electrón
 
 1. Neva Aguirre No. 1, n.aguirrec@uniandes.edu.co No. 1 202214654, Funcionalidad propiedad del estudiante No. 1.
 1. Julian Contreras No. 2, j.contreras11@uniandes.edu.co No. 2 202211884, Funcionalidad propiedad del estudiante No. 2.
-1. Camila No. 3, Correo electrónico del estudiante No. 3 Uniandes, Funcionalidad propiedad del estudiante No. 3.
+1. Camila Amaya No. 3, m.amayam@uniandes.edu.co No. 3 202011320, Funcionalidad propiedad del estudiante No. 3.
 
 [Volver al inicio](#sample-mvc)
 
